@@ -1,4 +1,4 @@
----js
+---javascript
 {
   name: "pr-review",
   description: "Review pull requests using best practices and security guidelines",
